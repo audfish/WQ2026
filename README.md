@@ -1,5 +1,3 @@
 # WQ2026
 
-## test test
-
-### hello people of earth
+## This is a project analyzing fog in the California central valley. I am learning to work with csv data through this project. 
