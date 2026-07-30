@@ -15,3 +15,5 @@
 /CV_rows_codes_incl.csv
 /CV_rows_codes.csv
 /CV_rows_codes_filtered.csv
+/CV_rows_codes_1.csv
+# above is latest version of CV_rows_codes.csv with fog rows filled with 0.9 visibility
